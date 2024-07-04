@@ -1,2 +1,4 @@
 # data-centric-model
-impact of data on the result of a model
+----
+The purpose of this work is to show the impact of the quality of data in the result of a model
+
