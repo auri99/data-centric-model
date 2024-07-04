@@ -9,4 +9,9 @@ Conception d'un modèle de classification d'images. Notre dataset est constitué
 <img src="https://github.com/auri99/data-centric-model/assets/35396458/7e8026f4-a2b9-49d2-8b85-c61f840ddf54" width="100" height="100">
 <img src="https://github.com/auri99/data-centric-model/assets/35396458/fa3836ca-d4e3-4a68-9885-2bf7aa4cc706" width="100" height="100">
 
+---
+To launch this notebook, you have to:
+* create an environment python 3.10 ( with pyvenv or anaconda ).
+* Install poetry
+* run `poetry install`
 
